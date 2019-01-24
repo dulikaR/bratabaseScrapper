@@ -1,2 +1,2 @@
 # bratabaseScrapper
-Web Scrapper for scrape bratabase
+Web Scrapper to scrape bratabase
